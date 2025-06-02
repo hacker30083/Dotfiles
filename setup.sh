@@ -9,3 +9,4 @@ sudo apt install build-essential neovim cmake git vim python3
 
 git clone https://github.com/hacker30083/Dotfiles ~/.config/
 
+rm README.md setup.sh
